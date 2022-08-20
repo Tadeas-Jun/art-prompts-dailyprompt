@@ -1,0 +1,11 @@
+{
+  "name": "art-prompts-dailyprompt",
+  "version": "1.0.0",
+  "description": "A utility tool to post prompts from the Art Prompts Twitter accounts to the Discord community servers.",
+  
+  "dependencies": {
+    "needle": "^3.0.0",
+    "prompt-confirm": "^2.0.4",
+    "webhook-discord": "^3.7.8"
+  }
+}
