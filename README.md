@@ -1,3 +1,5 @@
+**This repository is archived, as the daily prompts functionality for the Art Prompts Twitter accounts got sunset after the Twitter API pricing changes.**
+
 # Daily Prompt script for Art Prompts
 💡 A utility tool to post prompts from the Art Prompts Twitter accounts to the Discord community servers.
 
